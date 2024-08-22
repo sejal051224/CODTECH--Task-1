@@ -1,1 +1,10 @@
-# CODTECH-Task1
+Name: SEJAL RAWOOL
+Company: CODTECH IT SOLUTION
+ID:CT12DS1838
+Domain: SQL
+Duration: JULY TO SEPTEMBER
+Mentor: MUZAMMIL AHMED
+
+Overview Of The Project
+Project:
+
